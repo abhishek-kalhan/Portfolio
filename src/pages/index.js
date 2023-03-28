@@ -13,7 +13,7 @@ import python from '../../public/Python.png'
 import database from '../../public/database.png'
 import crypto_hunter from '../../public/crypto-hunter.png'
 import Link from 'next/link';
-import weather from '../../public/weather.png'
+import weather from '../../public/Weather.png'
 import restaurant from '../../public/Restaurant.png'
 import { useState } from 'react'
 
